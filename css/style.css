@@ -1,0 +1,11 @@
+.navbar-lewagon {
+	display: flex;
+	justify-content: space-between;
+	padding: 15px;
+}
+
+.navbar-lewagon-right {
+	display: flex;
+	justify-content: space-between;
+	width: 300px;
+}
